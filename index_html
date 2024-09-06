@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neurline</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/6c018425cd.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <!-- header -->
+     <header>
+        <div class="menu">
+           <img src="" class="menu_icons">
+           <ul>
+            <li><a href="#"> YUSUPHA </a></li>
+
+            <li><a href="#"> GREAT </a></li>
+
+            <li><a href="#"> FURNITURE </a></li>
+           </ul>
+        </div>
+        <img src="img2.jpg" class="logo">
+
+        <div class="header-end">
+            <i class="fa-solid fa-location-dot"></i>
+            <i class="fa-crown">
+                <div class="login">
+                    <button><span>To Login In</span></button>
+                    <hr>
+                    <p>Do Not Have Account Yet ?</p>
+                    <button><span>WE INVITE YOU TO VISIT THE LATEST ARMCHAIR MODELS</span></button>
+                </div>
+            </i>
+            <button><span>Click & Collect</span> <img src="click_collect.png"></button>
+        </div>
+     </header>
+    <!-- header -->
+
+    <!-- home -->
+     <section class="home">
+        <button><span>LATEST MODELS AVAILABLE !</span></button>
+     </section>
+     <!-- home -->
+
+     <!-- yusuph -->
+      <section class="yusuph">
+        <h1> SEE MORE DETAILS </h1>
+
+
+        <P>HERE ARE THE THREE MOST EXTRAORDINARY MODELS  !</P>
+
+
+        <div class="yusuph-list">
+            <div class="box">
+              <img src="img24.jpg">
+              <h3>The First selection
+                is one 
+                of the 
+                American brands.
+                We have taken
+                the time to select
+                the best styles of
+                armchair fabrics
+                for your living
+                room,classic comfort,
+                perfect for everyday 
+                life and sophisticated
+                enough for your special meeting.</h3>
+            </div>
+
+
+            <div class="box">
+              <img src="img25.jpg">
+              <h3>The second selection
+                is the accent recognized
+                by Italians.
+                Made in Gambia in
+                 West Africa,
+                our collection of
+                 contemporary
+                and classic designer 
+                armchairs
+                are perfect as an 
+                accent piece
+                to your existing
+                 living space.
+                Renowned for its
+                 supreme comfort
+                and versatility as 
+                well as impeccable
+                design and comfort,
+                Gambian furnitureadds
+                 a level of luxury
+                to your home like no other.</h3>
+            </div>
+
+
+            <div class="box">
+              <img src="img32.jpg">
+              <h3>The third part is
+                 one of the brands
+                used in England,
+                 available here
+                in Gambia especially
+                 in West Africa.
+                In our collection we
+                use a range of 
+                upholstery fabrics 
+                for our armchair 
+                to give you plenty 
+                of choice. Many of our
+                designs are also 
+                hand-upholstered 
+                using one
+                of our carefully chosen
+                 fabrics, from plush
+                velvet and breathable
+                 linen to cozy faux fur,
+                soft-touch buckle and 
+                100% leather. If you
+                are looking for a 
+                luxurious seating option,</h3>
+            </div>
+        </div>
+      </section>
+    <!-- yusuph -->
+    
+    <!-- fidelity prog -->
+     <h1> A MAGNIFICENT LIVING ROOM VIEW !</h1>
+     <p> This is a beautiful wall shape. These are not average " off-the-shelf" luxury sofa pieces.
+      Gambia sofas truly become an integral part of anu modern high tech, and elegant media
+      room with their construction and many extras that can be included in them.
+      If the customers so desire, beyond the luxurious aesthetics,
+      materials, comfort, and ambient lighting.
+     </p>
+     <section class="fidelity_prog">
+      <div class="div1">
+        <img src="img17.jpg">
+        <button><span>Our media room sofas are designed and crafted to be functional and aesthetically beautiful</span></button>
+      </div>
+      <div class="div2">
+        <img src="img15.jpg">
+        <button><span>We designed our furniture to integrate with leading</span></button>
+      </div>
+      <div class="div3">
+        <img src="img26.jpg">
+        <button><span>There are not just average"off-the-shelf" luxury sofa pieces</span></button>
+      </div>
+     </section>
+     <!-- fidelity prog -->
+
+     <!-- jallow -->
+      <h1> DECORATIVE ROOM !</h1>
+      <P>Just for a demonstration. Any choice of decoration will be made with satisfaction.
+
+        There are several ways to create your bedroom decoration. 
+        You can directly draw inspiration from your own universe.
+        f you like industrial style for example, why not decorate
+        your room according to this theme? Remove all doubts from
+        your head and opt for a decoration that you like.
+        If you like refined decorations, opt for bed sets,
+        furniture in pastel colors and decorative elements
+        that will bring a Scandinavian touch.</P>
+        <section class="jallow">
+          <div class="div4">
+            <img src="img28.jpg">
+            <button><span>Children's room.
+              A shared bedroom should allow each space to be clearly distinguished so that your children can cultivate their own secret.</span></button>
+          </div>
+          <div class="div5">
+            <img src="img30.jpg">
+            <button><span>Gold and metal.
+            For a chic and daring look, invite gold and metal into the bedroom. Whether in accessories, lights, furniture structures or even handles.</span></button>
+          </div>
+          <div class="div6">
+            <img src="img29.jpg">
+            <button><span>Is your bedroom small? We use mirrors to give an effect of grandeur. A bold idea? By placing one above each bedside table.</span></button>
+          </div>
+        </section>
+        <!-- jallow -->
+
+        <!-- ralph -->
+         <h1> Natural and modern atmosphere for the child's bedroom !</h1>
+         <p>Furnishing and decorating the child's bedroom requires a certain budget.
+          You might as well take advantage of the sales to save money!
+          Discover my selection of furniture and decoration at
+          low prices to create a bedroom.</p>
+          <section class="ralph">
+            <div class="div7">
+              <img src="img39.jpg">
+              <button><span>Here is an exemplary view.
+                Are you looking for inspiration to redo your child's bedroom? Colorful, refined, comfortable and functional.</span></button>
+            </div>
+            <div class="div8">
+              <img src="img38.jpg">
+              <button><span>The bed is an essential piece of furniture for your child's bedroom. Although a simple bed may be enough for your child.</span></button>
+            </div>
+          </section>
+          <!-- ralph -->
+
+        <!-- ahmed -->
+         <h1> CANONS FOR A BEAUTIFUL MODERN KITCHEN !</h1>
+         <P>A demonstration about Modern Cuisine.
+          In the 21st century, the art world continues to reinvent itself,
+          pushing boundaries and drawing from a multitude of sources
+          to create works that reflect the complexity of our times.
+          One of the most undeniable influences on this contemporary
+          art is undoubtedly fashion. By analyzing trends as well as
+          the relationships between art and fashion, we can decipher
+          how these two worlds nourish each other, giving birth
+          to fascinating and innovative creations.</P>
+          <section class="ahmed">
+            <div class="div9">
+              <img src="img37.jpg">
+              <button><span>Welcome to this pretty kitchen bathed in natural light! The dark worktop and splashback create a nice contrast.</span></button>
+            </div>
+            <div class="div10">
+              <img src="img20.jpg">
+              <button><span>If your kitchen is open, pendant lights will be perfect. For a contemporary effect, align them to match the lines of your kitchen.</span></button>
+            </div>
+            <div class="div11">
+              <img src="img19.jpg">
+              <button><span>Lighting levels.
+                Considering the time we spend there, it is important to feel good in our kitchen and this involves many elements including lighting.</span></button>
+            </div>
+          </section>
+          <!-- ahmed -->
+
+          <!-- moova -->
+           <h1> DOUBLE WARDROBE WITH ADJUSTABLE MIRROR !</h1>
+           <P>Highly functional, the Minotor range adapts to all household objects,
+            from clothes to books to shoes and will allow you to create storage
+            spaces according to your needs: Wardrobe, shoe storage, shelves, sliding
+             or sliding doors. hinges.
+            For efficient organization, you can even personalize
+            the interior layout with magnificent furniture designed to fit in each room of your home.</P>
+            <section class="moova">
+              <div class="div12">
+                <img src="img21.jpg">
+                <button><span>Superb White & Chocolate Wardrobe Wardrobe 2 doors: 140x55x180 Width x Depth x Height almost new.</span></button>
+              </div>
+              <div class="div13">
+                <img src="img36.jpg">
+                <button><span>Extract from the first choice, this explains a difference between the colors (Dark White & Brown).</span></button>
+              </div>
+              <div class="div14">
+                <img src="img35.jpg">
+                <button><span>Speaking of the Monitor range, this is an example of our best furniture. In other words, the double wardrobe with adjustable mirror.</span></button>
+              </div>
+            </section>
+            <!-- moova -->
+
+            <!-- about -->
+             <section id="about">
+              <h1 class="title">About</h1>
+              <div class="img-desc">
+                <div class="left">
+                    <video src="video3.mp4" autoplay loop></video>
+                </div>
+
+                <div class="right">
+                  <h3>The embodiment of furniture is a source of inspiration.</h3>
+                  <p>If we return to the very essence of design, we often notice the functional dimension which is closely linked to the aesthetic aspect.</p>
+                  <a href="#">Read more</a>
+                </div>
+              </div>
+              
+             </section>
+             <!-- about -->
+
+             <!-- yusuf abiodun -->
+              <section id="yusuf-abiodun">
+                <h1 class="title">yusuf-abiodun</h1>
+                <div class="img-desc">
+                  <div class="left">
+                      <img src="img2.jpg">                                                                                            
+                  </div>
+                  <div class="righ">
+                    <h3>YUSUF ABIODUN EXPLANATION</h3>
+                    <p>Abiodun who explains modern art today.
+                      Art Nouveau is more or less contemporary with the Arts and Crafts
+                      movement and the modernist movements
+                      relying on the work of man and not that of machine.</p>
+                      <a href="#">Read More</a>
+                  </div>
+                </div>
+                
+              </section>
+              <!-- about -->
+
+              <!-- contact section -->
+     <section id="contact">
+      <h1 class="tittle">contact</h1>
+          <p> Direct Call + 220-290-70-27</p>
+           <p> WhatsApp + 220-224-75-14</p>
+           <p>Alukoyusuf769@gmail.com</p>
+           <form action="">
+            <div class="left-right">
+                <div class="left">
+                    <label>Full Name</label>
+                    <input type="text">
+                    <label>Object</label>
+                    <input type="text">
+                    <label>Email</label>
+                    <input type="text">
+                    <label>Message</label>
+                    <input type="text">
+                     <textarea name="" id="" cols="30" rows="10"></textarea>
+                </div>
+                <div class="right">
+                    <label>number</label>
+                    <input type="text">
+                    <label>Date</label>
+                    <input type="text">
+                    <label>Others Details</label>
+                    <input type="text">
+                    <label>Address</label>
+                    <input type="text">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15529.219717582724!2d-16.687350312841787!3d13.331298299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec2a30c88846339%3A0x2bf1dfea41a1077c!2sBusumbala%20Central%20Market!5e0!3m2!1sfr!2sgm!4v1722363031603!5m2!1sfr!2sgm" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            
+                </div>
+            </div>
+            <button>Send</button>
+            
+            <p>Realized by <span>AHMED JALLOW -  + 220-263-32-60</span> All rights reserved. </p>
+        </form>
+</section>
+
+
+
+
+
+              
+              
+
+
+
+</body>
+</html>
